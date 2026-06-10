@@ -11,4 +11,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=amrutha.githib.io&show_icons=true)
