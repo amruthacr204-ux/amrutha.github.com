@@ -14,4 +14,10 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=amrutha.githib.io&show_icons=true)
 
 
-![Streak](https://streak-stats.demolab.com?user=amrutha.github.io)
+## Featured Projects
+
+### Portfolio Website
+A personal portfolio built with HTML, CSS, and JavaScript.
+
+### Task Manager App
+Flutter application for managing daily tasks.
