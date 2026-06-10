@@ -1,23 +1,86 @@
+<div align="center">
 
 # Hi 👋, I'm Amrutha C R
 
-💻 Aspiring Full-Stack Developer
+### Full Stack Developer | Problem Solver | Tech Enthusiast
 
-🌱 Currently learning React and Node.js
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Passionate+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-🚀 Building web and mobile applications
+</div>
+
+---
+
+## 🚀 About Me
+
+💻 Passionate about building scalable applications
+
+🌱 Currently learning modern web technologies
+
+🎯 Focused on improving problem-solving skills
+
+📚 Continuously learning and exploring new tools
+
+⚡ Fun fact: I love turning ideas into real projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Frontend
 
-![Stats](https://github-readme-stats.vercel.app/api?username=amrutha.githib.io&show_icons=true)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### Backend
 
-## Featured Projects
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Portfolio Website
-A personal portfolio built with HTML, CSS, and JavaScript.
+### Database
 
-### Task Manager App
-Flutter application for managing daily tasks.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrutha.github.io&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha.github.io&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amrutha.github.io&theme=tokyonight)
+
+---
+
+## 🏆 Featured Projects
+
+### 🔹 Project One
+Short description of your project.
+
+### 🔹 Project Two
+Short description of your project.
+
+### 🔹 Project Three
+Short description of your project.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: your-email@example.com
+- Portfolio: https://your-website.com
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
