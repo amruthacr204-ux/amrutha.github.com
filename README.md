@@ -73,8 +73,8 @@ Short description of your project.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/amrutha-c-r-10b50b37a
+- Email: your-amruthacr204@gmail.com
 - Portfolio: https://your-website.com
 
 ---
