@@ -12,3 +12,6 @@
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=amrutha.githib.io&show_icons=true)
+
+
+![Streak](https://streak-stats.demolab.com?user=amrutha.github.io)
